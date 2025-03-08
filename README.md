@@ -18,8 +18,8 @@
 
 1. 克隆此仓库：
    ```bash
-   git clone https://github.com/yourusername/video-merge-tool.git
-   cd video-merge-tool
+   git clone https://github.com/vulgar-sir/video-merge.git
+   cd video-merge
    ```
 
 2. 安装依赖（如果有）：
